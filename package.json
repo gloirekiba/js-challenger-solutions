@@ -9,7 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/gloirekiba/js-challenger-solutions#readme",
   "devDependencies": {
     "nodemon": "^2.0.16",
     "typescript": "^4.7.3"
