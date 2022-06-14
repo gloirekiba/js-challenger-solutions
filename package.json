@@ -2,10 +2,7 @@
   "name": "js-challenger-solutions",
   "version": "1.0.0",
   "description": "",
-  "scripts": {
-    "dev": "tsc -watch test/index.ts & nodemon test/index.js",
-    "build": "tsc"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
