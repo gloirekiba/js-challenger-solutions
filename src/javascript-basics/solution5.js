@@ -2,6 +2,6 @@
 // Remove the first 3 characters of a
 // Return the result
 
-function myFunction(a: string): string {
+function myFunction(a) {
   return a.substring(3);
 }
