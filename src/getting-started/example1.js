@@ -1,5 +1,5 @@
 // Simply return the given input
 
-function myFunction(a: any): any {
+function myFunction(a) {
   return a;
 }
