@@ -1,5 +1,5 @@
 // Find the maximum number of the array
 
-function myFunction(a: number[]): number {
+function myFunction(a) {
   return Math.max(...a);
 }
