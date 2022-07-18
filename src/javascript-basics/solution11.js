@@ -5,6 +5,6 @@
 // Finally raise to the power of f and return the result
 // Tipp: mind the order
 
-function myFunction(a: number, b: number, c: number, d: number, e: number, f: number) {
+function myFunction(a, b, c, d, e, f) {
   return (((a + b - c) * d) / e) ** f;
 }
