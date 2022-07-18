@@ -2,6 +2,6 @@
 // Extract the last 3 characters from the string
 // Return the result
 
-function myFunction(str: string): string {
+function myFunction(str) {
   return str.slice(-3);
 }
