@@ -2,6 +2,6 @@
 // Sum a and b
 // Return the result
 
-function myFunction(a: number, b: number): number {
+function myFunction(a, b) {
   return a + b;
 }
