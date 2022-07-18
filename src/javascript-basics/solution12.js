@@ -2,6 +2,6 @@
 // If the number is even, return true
 // Otherwise, return false
 
-// function myFunction (a: number): number {
+// function myFunction (a) {
 
 // }
