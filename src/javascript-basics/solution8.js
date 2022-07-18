@@ -2,6 +2,6 @@
 // Extract the first half a
 // Return the result
 
-function myFunction(a: string): string {
+function myFunction(a) {
   return a.slice(0, a.length / 2);
 }
